@@ -11,4 +11,4 @@ Methods
 3. Autoencoder: This is dimensionality method take the original input data to a lower dimensional and reconstruct it to detect the abnormal values.
 4. LSTM played a part in identifying unusual patterns in the data.
 
-The streamlit app displays the results of the abnormalities and other statistical attributes of the data used for this project.
+The streamlit app (pro_app) displays the results of the abnormalities and other statistical attributes of the data used for this project.
